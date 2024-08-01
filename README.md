@@ -25,3 +25,17 @@ The dataset used in this project is taken from `lukebarousse/data_jobs`. It cont
 - `company_name`
 - `job_skills`
 - `job_type_skills`
+
+## Project Goals
+
+- **Analyze Job Distribution by Location**: Determine the number of data-related jobs available in various locations across the US.
+
+- **Identify Key Skills for Top Data Roles**: Find the most demanded skills for the top 3 most popular data roles.
+
+- **Track Skill Trends Over Time**: Analyze how the demand for specific skills has evolved over time according to the posting dates.
+
+- **Top 10 Most In-Demand Skills for Data Analysts**: Identify the top 10 skills most frequently required for data analyst positions.
+
+- **Top 10 Highest-Paid Skills for Data Analysts**: Determine the top 10 skills associated with the highest salaries for data analysts.
+
+- **Evaluate Optimal Skills for Data Analysts**: Assess which skills are most effective and advantageous for data analysts in the US.
