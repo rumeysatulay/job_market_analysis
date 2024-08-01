@@ -71,7 +71,9 @@ Python was the cornerstone of my analysis, enabling me to thoroughly examine the
 
 ![png-7](https://github.com/user-attachments/assets/8079623a-54e6-4c21-ba01-c94568c96117)
 
+- I want to investigate the top 3 job titles and their salary analysis. The top 3 job titles are Data Analyst, Data Engineer, and Data Scientist. I filtered the data for these 3 jobs. To clearly see the differences, I used a box plot chart. In the graph, we can see that salaries are close for the top 3 job titles. When looking at the averages, the order is Data Scientist, Data Engineer, and Data Analyst. Apart from the averages, there are exceptionally higher salaries for the Data Scientist role.
 
+![png-8](https://github.com/user-attachments/assets/8e195c05-2cad-4f4f-8503-6702c9401b56)
 
 
 
