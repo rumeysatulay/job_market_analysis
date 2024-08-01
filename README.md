@@ -59,13 +59,17 @@ Python was the cornerstone of my analysis, enabling me to thoroughly examine the
 ![png-4](https://github.com/user-attachments/assets/e42b51df-856d-4a16-99a9-b06a77078247)
 
 - Using this list, I identified the top three jobs with the highest skill count, which are Data Analyst, Data Engineer, and Data Scientist.
--
 - In this graph, the skill request percentage for the top three popular job titles—Data Analyst, Data Engineer, and Data Scientist—is shown. We can see that SQL and Python are common skills across all three roles. Excel is the second most important skill for Data Analysts, but it is not as crucial for Data Engineers and Data Scientists. This chart is important for those who want to transition to one of these top three jobs or are seeking employment; these are the skills they need to have.
-  
 
 ![png-5](https://github.com/user-attachments/assets/9cc8d639-17c5-49bc-875e-f14c1df4f97f)
 
+- I want to investigate how job skills are changing over time. To do this, I created an additional column with only the month extracted from the application date. I then created a pivot table with job skills and the month information. In this table, I added the count of job postings that included each skill for that month.
 
+![png-6](https://github.com/user-attachments/assets/a3d6075a-78ac-4872-be6a-a902152dc130)
+
+- This graph shows the distribution of the top 10 requested skills for Data Analysts in the US throughout the year. The main skills required for the Data Analyst role are SQL, Excel, Python, and Tableau. We can see that these skills have remained relatively stable throughout the year, indicating that the desired skills for Data Analysts have generally stayed consistent.
+
+![png-7](https://github.com/user-attachments/assets/8079623a-54e6-4c21-ba01-c94568c96117)
 
 
 
