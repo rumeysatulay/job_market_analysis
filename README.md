@@ -76,6 +76,15 @@ Python was the cornerstone of my analysis, enabling me to thoroughly examine the
 ![png-8](https://github.com/user-attachments/assets/8e195c05-2cad-4f4f-8503-6702c9401b56)
 
 
+- We previously looked at the most requested skills for the Data Analyst role. I wanted to compare the most sought-after skills with the skills required for the highest-paying jobs. First, I filtered the data for job titles listed as Data Analyst. Since the job skills column is in a list format, I used the explode function to separate the skills. Then, I grouped the data by job skills and displayed the count of job postings and the average salary for each skill. I also created the same table sorted by average salary in descending order and by the number of job postings in descending order, taking the top 10 rows for each. You can find the tables below.
+
+![png-9](https://github.com/user-attachments/assets/930978a7-64f8-46fc-b610-0f8e62f6d1cb)
+![png-10](https://github.com/user-attachments/assets/8987a79f-2140-4da6-af29-46924380a3cd)
+
+- Finally, I visualized these two tables as bar charts. In the first chart, we see the skills in the highest-paying Data Analyst jobs and the average salaries for jobs requiring these skills. In the second chart, we see the most requested skills for Data Analyst jobs and the average salaries for jobs requiring these skills. We can observe that the jobs with the skills in the top chart have very high salaries, but there are fewer of these jobs. This visualization can provide insights for those seeking Data Analyst positions. If the goal is to secure a job, it is beneficial to focus on the most requested skills, such as SQL, Excel, and Python. If you want to transition to a higher-paying job, you can focus on the skills in the first chart, such as dplyr, Bitbucket, and GitLab.
+
+![png-11](https://github.com/user-attachments/assets/17eaef17-0d38-4cde-84ef-b6b62c7c2c50)
+
 
 
 
